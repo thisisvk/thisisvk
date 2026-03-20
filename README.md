@@ -1,36 +1,149 @@
-[![MasterHead](https://img.freepik.com/free-vector/cosmic-background-alien-planet-deserted-landscape-with-mountains_107791-6400.jpg?w=1380&t=st=1679858874~exp=1679859474~hmac=3b0dd8732308698f34b7a86abfbe8d5fbce60e168ba8ba21625dcd2ad59114cb)](https://github.com/thisisvk)
-<h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisvk&label=Profile%20views&color=0e75b6&style=flat" alt="thisisvk" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/thisisvkx" target="blank"><img src="https://img.shields.io/twitter/follow/thisisvkx?logo=twitter&style=for-the-badge" alt="thisisvkx" /></a> </p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%24+whoami;%3E+Vivek+Kumar+%7C+Full+Stack+Developer;%3E+Building+the+web%2C+one+commit+at+a+time...)
 
-- 👨‍💻 All of my projects are available at [@protfolio](@protfolio)
+</div>
 
-- 💬 Ask me about **Frontend , Backend**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 📫 How to reach me **thisisvk@proton.me**
+```bash
+┌──(vivek㉿dev)-[~/universe]
+└─$ cat about_me.txt
+```
 
-- 📄 Know about my experiences [@resume](@resume)
+```yaml
+Name        : Vivek Kumar
+Role        : Full Stack Developer
+Location    : India 🇮🇳
+Status      : Open to Collaborate [ ██████████ ] 100%
+Focus       : Building scalable full-stack apps + Cloud-native systems
+Contact     : thisisvk@proton.me
+Fun Fact    : Full-stack devs are the Swiss Army Knives of tech 🔪
+```
 
-- ⚡ Fun fact **Full stack developers are the Swiss Army Knives of the tech industry, possessing a wide range of skills that allow them to create complete web applications from start to finish.**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thisisvkx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisisvkx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-kumar-03a85a220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-kumar-03a85a220" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100091293881265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100091293881265" height="30" width="40" /></a>
-<a href="https://instagram.com/thisisvkx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisvkx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@technicalgyankabhandar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@technicalgyankabhandar" height="30" width="40" /></a>
-</p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+```bash
+┌──(vivek㉿dev)-[~/skills]
+└─$ ls -la
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisvk&show_icons=true&locale=en&layout=compact" alt="thisisvk" /></p>
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisvk&show_icons=true&locale=en" alt="thisisvk" /></p>
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisvk&" alt="thisisvk" /></p>
- 
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**DevOps & Cloud** *(leveling up 🚀)*
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Currently Loading...
+
+```bash
+┌──(vivek㉿dev)-[~/learning]
+└─$ cat progress.log
+```
+
+```
+[▓▓▓▓▓▓▓▓▓░] Docker & Containerization    90%
+[▓▓▓▓▓▓▓░░░] AWS / Cloud Fundamentals     75%
+[▓▓▓▓▓▓░░░░] CI/CD Pipelines             65%
+[▓▓▓▓▓▓▓▓░░] Django REST Framework       85%
+[▓▓▓▓▓▓▓▓▓▓] Frontend Dev               100% ✅
+```
+
+> 🎯 **2025 Goals:** Master Cloud-native architecture · Ship 5 open-source projects · Get AWS certified
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 Terminal Stats
+
+```bash
+┌──(vivek㉿dev)-[~/github]
+└─$ git log --oneline --stat
+```
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisvk&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvk&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thisisvk&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 Open Source & Projects
+
+```bash
+┌──(vivek㉿dev)-[~/projects]
+└─$ ls -la --color=auto
+```
+
+> 💡 All my projects live at my **[Portfolio](#)** — from full-stack web apps to CLI tools.
+
+- 🔭 Currently building: **Full-stack projects with Django + Docker**
+- 🌱 Contributing to: **Open source Python & web dev tools**
+- 🤝 Open to: **Collaboration, freelance, and interesting side projects**
+- ⚡ Ask me about: **Frontend, Backend, System Design**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📡 Connect
+
+```bash
+┌──(vivek㉿dev)-[~/socials]
+└─$ ping vivek --all-platforms
+```
+
+<div align="left">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thisisvkx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-kumar-03a85a220)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thisisvkx)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@technicalgyankabhandar)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100091293881265)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:thisisvk@proton.me)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=thisisvk&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+
+```
+> session terminated. thanks for visiting_
+█
+```
+
+</div>
