@@ -1,12 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=Vivek%20Kumar&fontSize=60&fontColor=00FF41&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Full%20Stack&descAlignY=58&descSize=16&descColor=88ff88&animation=fadeIn)
+<!-- CUSTOM BANNER — paste this SVG into your repo as banner.svg and reference it, OR use the capsule-render below -->
+![banner](https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,70:003300,100:00FF41&height=220&section=header&text=VIVEK%20KUMAR&fontSize=62&fontColor=00FF41&fontAlignY=42&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Full%20Stack&descAlignY=62&descSize=15&descColor=88ff88&stroke=00FF41&strokeWidth=1&animation=fadeIn&reversal=false)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%24+ssh+vivek%40cloud-infra.prod;Welcome+back%2C+Engineer.+3+systems+online.;%5BAWS%5D+%5BK8s%5D+%5BCI%2FCD%5D+%E2%80%94+All+systems+nominal+%E2%9C%94;%24+cat+%2Fetc%2Fengineer+%7C+grep+expertise)](https://github.com/thisisvk)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&width=720&height=110&lines=%24+ssh+vivek%40cloud-infra.prod;%3E+Connected.+AWS+%5B%E2%9C%93%5D+K8s+%5B%E2%9C%93%5D+CI%2FCD+%5B%E2%9C%93%5D+Uptime+99.9%25+%5B%E2%9C%93%5D;%24+cat+%2Fetc%2Fengineer+%7C+grep+expertise+%7C+head+-5)](https://github.com/thisisvk)
 
 </div>
 
@@ -25,7 +26,7 @@ title       : "DevOps Engineer"
 experience  : "3 Years"
 location    : "Noida, India 🇮🇳"
 education   : "MCA – Amity University (2024–2026)"
-contact     : "thisisvk@proton.me"
+contact     : "thisisvk@gmail.com"
 current_org : "Orvion Tech"
 
 specialties:
@@ -147,11 +148,11 @@ open_to     : "Collaborations | DevOps Consulting | Cloud Projects"
 ```
 SKILL                        PROGRESS
 ─────────────────────────────────────────────────────
+Python Microservices         [▓▓▓▓▓▓▓▓▓░]  90%
 Advanced Kubernetes (CKA)    [▓▓▓▓▓▓▓▓░░]  80%
+AWS Solutions Architect      [▓▓▓▓▓▓▓░░░]  70%
 Terraform IaC                [▓▓▓▓▓▓▓░░░]  70%
 ArgoCD / GitOps              [▓▓▓▓▓▓░░░░]  65%
-AWS Solutions Architect      [▓▓▓▓▓▓▓░░░]  70%
-Python Microservices         [▓▓▓▓▓▓▓▓▓░]  90%
 ─────────────────────────────────────────────────────
 🎯 Target: AWS-SAA Cert | CKA Cert | GitOps Mastery
 ```
@@ -164,9 +165,7 @@ Python Microservices         [▓▓▓▓▓▓▓▓▓░]  90%
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisisvkx)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thisisvkx)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thisisvkx)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@technicalgyankabhandar)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:thisisvk@proton.me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thisisvk@gmail.com)
 
 </div>
 
@@ -176,6 +175,6 @@ Python Microservices         [▓▓▓▓▓▓▓▓▓░]  90%
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thisisvk&color=00FF41&style=for-the-badge&label=ENGINEERS+WHO+VISITED)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:001a00,100:000000&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=00FF41&fontAlignY=65&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:00FF41,30:003300,70:001a00,100:000000&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=00FF41&fontAlignY=65&animation=fadeIn&reversal=true)
 
 </div>
